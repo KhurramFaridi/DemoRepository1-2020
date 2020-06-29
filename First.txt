@@ -1,1 +1,2 @@
-This is the First Document for GitHub Practice
+This is the First Document for GitHub Practice 
+(Creating RR, Cloning LR, Creating File, Adding/Committing on Git and Pushing on GitHub)
