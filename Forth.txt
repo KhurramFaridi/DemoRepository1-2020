@@ -1,1 +1,1 @@
-This is the Forth Document for Git Merge with 'Rebase' Practice
+This is the Forth Document for Git Merge with 'Rebase' Practice through Command Terminal
